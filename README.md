@@ -2,7 +2,7 @@
 LeetCode solutions in Dart(easy &amp; medium)
 ## Easy
 - [x] Two Sum
-- [ ] Palindrome Number
+- [x] Palindrome Number
 - [ ] Roman to Integer
 - [ ] Plus One
 - [ ] Majority Element
