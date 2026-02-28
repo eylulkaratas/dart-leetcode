@@ -8,5 +8,5 @@ LeetCode solutions in Dart(easy &amp; medium)
 - [x] Majority Element
 - [x] Contains Duplicate
 - [x] Missing Number
-- [ ] Find All Numbers Disappeared in Array
+- [x] Find All Numbers Disappeared in Array
 - [ ] Single Number
