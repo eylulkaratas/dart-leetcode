@@ -6,7 +6,7 @@ LeetCode solutions in Dart(easy &amp; medium)
 - [x] Roman to Integer
 - [x] Plus One
 - [x] Majority Element
-- [ ] Contains Duplicate
+- [x] Contains Duplicate
 - [ ] Missing Number
 - [ ] Find All Numbers Disappeared in Array
 - [ ] Single Number
