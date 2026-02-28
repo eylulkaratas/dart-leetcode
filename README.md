@@ -5,7 +5,7 @@ LeetCode solutions in Dart(easy &amp; medium)
 - [x] Palindrome Number
 - [x] Roman to Integer
 - [x] Plus One
-- [ ] Majority Element
+- [x] Majority Element
 - [ ] Contains Duplicate
 - [ ] Missing Number
 - [ ] Find All Numbers Disappeared in Array
