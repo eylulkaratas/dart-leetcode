@@ -4,7 +4,7 @@ LeetCode solutions in Dart(easy &amp; medium)
 - [x] Two Sum
 - [x] Palindrome Number
 - [x] Roman to Integer
-- [ ] Plus One
+- [x] Plus One
 - [ ] Majority Element
 - [ ] Contains Duplicate
 - [ ] Missing Number
