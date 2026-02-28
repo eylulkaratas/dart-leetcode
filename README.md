@@ -7,6 +7,6 @@ LeetCode solutions in Dart(easy &amp; medium)
 - [x] Plus One
 - [x] Majority Element
 - [x] Contains Duplicate
-- [ ] Missing Number
+- [x] Missing Number
 - [ ] Find All Numbers Disappeared in Array
 - [ ] Single Number
