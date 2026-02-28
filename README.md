@@ -3,7 +3,7 @@ LeetCode solutions in Dart(easy &amp; medium)
 ## Easy
 - [x] Two Sum
 - [x] Palindrome Number
-- [ ] Roman to Integer
+- [x] Roman to Integer
 - [ ] Plus One
 - [ ] Majority Element
 - [ ] Contains Duplicate
