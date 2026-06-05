@@ -1,6 +1,9 @@
 # dart-leetcode
-LeetCode solutions in Dart(easy &amp; medium)
+
+LeetCode solutions in Dart
+
 ## Easy
+
 - [x] Two Sum
 - [x] Palindrome Number
 - [x] Roman to Integer
@@ -10,3 +13,17 @@ LeetCode solutions in Dart(easy &amp; medium)
 - [x] Missing Number
 - [x] Find All Numbers Disappeared in Array
 - [x] Single Number
+
+### Category 2
+
+- [x] Valid Parentheses
+- [x] Remove Duplicates from Sorted Array
+- [x] Remove Element
+- [x] Find the Index of the First Occurrence
+- [x] Length of Last Word
+- [x] Valid Palindrome
+- [x] Valid Anagram
+- [x] Reverse String
+- [x] First Unique Character
+- [x] Fizz Buzz
+- [x] Reverse Words in a String III
